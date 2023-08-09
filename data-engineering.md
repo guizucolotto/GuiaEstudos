@@ -1,8 +1,8 @@
 # Data Engineering
 ## Nivel 1
-- [ ] **Engenharia de Dados - Fundamentos**:
+- [x] **Engenharia de Dados - Fundamentos**:
    - Uma pessoa Engenheira de Dados desempenha um papel crucial ao projetar, implementar e manter as infraestruturas de dados que permitem que uma organização trabalhe de maneira eficiente com suas informações. A pessoa engenheira de dados cria pipelines de dados para integrar, limpar e transformar dados provenientes de várias fontes e formatos. Isso possibilita a geração de insights valiosos para o negócio e melhora a tomada de decisões estratégicas.
-- [ ] **Python - Fundamentos**:
+- [x] **Python - Fundamentos**:
    - Python é uma linguagem de programação de alto nível, de uso geral, amplamente utilizada em aplicações web, desenvolvimento de software, ciência de dados e Machine Learning. Sua filosofia de projeto enfatiza a legibilidade do código com o uso de indentação significativa. Python é dinamicamente tipada e tem um garbage collector.
    - Conhecer os tipos primitivos
    - Declarar variáveis, considerando os diferentes tipos
@@ -28,7 +28,7 @@
    - Obter dados de uma API
    - Fazer chamadas assíncronas 'Future', etc
    - Criar construtores
-- [ ] **Bancos de Dados - Fundamentos**:
+- [x] **Bancos de Dados - Fundamentos**:
    - Os bancos de dados são sistemas de armazenamento de dados que permitem a organização, a manipulação e o acesso eficiente às informações. Existem dois principais tipos de bancos de dados, sendo eles SQL (Structured Query Language) e NoSQL (Not Only SQL).
    - O conhecimento dos fundamentos de bancos de dados, tanto SQL quanto NoSQL, é essencial na engenharia de dados. Os bancos de dados são a base para armazenar e manipular os dados utilizados nas análises e nos processos de tomada de decisão. Compreender os diferentes tipos de bancos de dados permite aos engenheiros de dados escolher a solução mais adequada para cada caso, levando em consideração os requisitos de escalabilidade, desempenho, consistência e flexibilidade. Além disso, a habilidade de escrever consultas SQL e de utilizar as características específicas dos bancos de dados NoSQL é essencial para extrair, transformar e carregar dados de forma eficiente e eficaz.
 - [ ] **Linux - Fundamentos**:
